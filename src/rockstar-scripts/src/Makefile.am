@@ -1,0 +1,1 @@
+SUBDIRS = GossipScripts BattleQuest InstanceScripts ServerStatusPlugin SpellHandlers LUAScripting RS-Scripts

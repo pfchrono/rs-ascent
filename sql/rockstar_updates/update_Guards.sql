@@ -1,0 +1,1 @@
+UPDATE `creature_proto` SET `faction`='914' WHERE `entry` in ( SELECT `entry` FROM `creature_names` WHERE `GuardType` > '0' );
